@@ -47,7 +47,7 @@ A two-player game written in Java using nested loops and arrays. Displays board 
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/nicholascouch)
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)
 - ✉️ Email: nicholascouch@example.com
 - 🧠 Portfolio (Coming Soon): nicholascouch.dev
 
