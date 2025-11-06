@@ -36,7 +36,7 @@ A console-based Java dice game built using OOP principles. Demonstrates random n
 ### 💰 [Finance Tracker App](https://github.com/NicholasCouch-Dev/FinanceTracker)
 A Spring Boot web application for managing personal income and expenses. Features RESTful APIs, JSON integration, and backend logic.
 
-### 🎮 [Connect Four Game (Java Edition)](https://github.com/NicholasCouch-Dev/ConnectFour)
+### 🎮 [Connect Four Game (Java Edition)](https://github.com/NicholasCouch-Dev/ConnectFourJavaFX)
 A two-player game written in Java using nested loops and arrays. Displays board state and determines the winner dynamically.
 
 ---
