@@ -1,57 +1,77 @@
-## Hi there 👋
+# Hello! I'm Nicholas Couch
 
-# 👋 Hi, I'm Nicholas Couch
-### 💻 Aspiring Software Engineer | Java Developer | Career Transitioner from Healthcare to Tech
-
-Welcome to my GitHub profile! I’m a **Software Engineering student** and career changer transitioning from **Sterile Processing** to **Software Development**.  
-Currently pursuing my **Associate’s in Computer Science**, I’m focused on mastering **Java, Spring Boot, REST APIs, and backend development**.
+🚀 **Aspiring Java & Python Software Engineer | AI-Driven Developer | Passionate About Building Smart, Scalable Apps**
 
 ---
 
-## 🚀 About Me
-- 🎓 Studying Computer Science, building a strong foundation in software engineering
-- ☕ Passionate about Java development and clean, maintainable code
-- 🧩 Interested in backend systems, APIs, and automation tools
-- 🧠 Learning daily through hands-on projects, textbooks, and professional refactoring
-- 🩺 Previous background in healthcare — detail-oriented and process-driven
+## 🧠 About Me
+
+- 🎓 Pursuing an **Associate’s in Computer Science**
+- 💻 Currently learning **Java, Spring Boot, and Python (Flask & Django)**
+- 🧩 Focused on writing clean, maintainable code and building real-world applications
+- 🌱 Dedicated to continuous learning, problem-solving, and full-stack development
 
 ---
 
-## 🧰 Languages & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
-</p>
+## 💼 Featured Projects
+
+### 🧮 [Personal Finance Tracker (Flask + Chart.js)](https://github.com/NicholasCouch-Dev/finance_tracker)
+A web-based finance dashboard for tracking income and expenses with data visualization.
+
+**Tech Stack:** Flask, Pandas, Chart.js, HTML, CSS  
+**Features:**
+- Add, edit, and visualize transactions  
+- Dynamic charts for Income vs Expense breakdown  
+- Persistent CSV data storage  
+- Clean, responsive UI design  
 
 ---
 
-## 📂 Featured Projects
-### 🎲 [Midterm Project – A Game of Craps](https://github.com/NicholasCouch-Dev/MidtermProject)
-A console-based Java dice game built using OOP principles. Demonstrates random number generation, control structures, and user input handling.
+### 🎮 [Connect Four (JavaFX)](https://github.com/NicholasCouch-Dev/ConnectFourJavaFX)
+A classic Connect Four game with an interactive JavaFX interface and scoreboard tracking.
 
-### 💰 [Finance Tracker App](https://github.com/NicholasCouch-Dev/FinanceTracker)
-A Spring Boot web application for managing personal income and expenses. Features RESTful APIs, JSON integration, and backend logic.
-
-### 🎮 [Connect Four Game (Java Edition)](https://github.com/NicholasCouch-Dev/ConnectFourJavaFX)
-A two-player game written in Java using nested loops and arrays. Displays board state and determines the winner dynamically.
-
----
-
-## 📈 GitHub Stats
-![Nicholas Couch's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasCouch-Dev&show_icons=true&theme=tokyonight)
+**Tech Stack:** Java, JavaFX  
+**Features:**
+- Smooth drop animations  
+- Player turn tracking & win detection  
+- Reset and scoreboard system  
+- Polished UI with modern styling  
 
 ---
 
-## 📫 Let's Connect
+### 🎲 [Craps Midterm Project (Java Console Game)](https://github.com/NicholasCouch-Dev/CrapsGame)
+A Java console-based simulation of the casino dice game **Craps**, built as part of a midterm project.
+
+**Tech Stack:** Java  
+**Features:**
+- Simulates the rules and flow of the classic Craps game  
+- Randomized dice rolling using Java’s `Random` class  
+- Player win/loss tracking  
+- Clear, interactive text-based UI  
+- Structured and well-commented code for readability  
+
+---
+
+
+## 🛠️ Languages & Tools
+
+<div>
+  <img src="https://skillicons.dev/icons?i=java,python,flask,spring,html,css,js,maven,git,github,vscode,idea" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Full-Stack Development (Spring Boot + React)
+- Data Visualization & Analytics in Python
+- Django for rapid web application development
+
+---
+
+## 📫 Contact Me Here
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-couch-dev)
-- ✉️ Email: (nicholas.couch95@gmail.com)
-- 🧠 Portfolio (Coming Soon): nicholascouch.dev
+- 🧠 [GitHub Projects](https://github.com/NicholasCouch-Dev)
 
 ---
-
-### 🌱 Motto
-> "Code with purpose. Learn with consistency. Build with curiosity."
